@@ -1,5 +1,0 @@
-1.	Nested List
-Nested list là dạng danh sách lồng ghép, nghĩa là một list xuất hiện với vai trò là phần tử của một list khác. Ví dụ:
-A = [ 1, 4, 5, [8, 9]]
-2.	Can list store both integers and strings?
-Mảng trong js là một đối tượng chứa các phần tử có kiểu dữ liệu giống nhau, nên ko thể chưa 2 kiểu dữ liệu integer và string cùng lúc.
